@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SkyLink\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F48B76F5-5916-FFA9-5C2D-65C32A319D45}|src\\Services\\IdentityService\\IdentityService.csproj|d:\\skylink\\src\\services\\identityservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F48B76F5-5916-FFA9-5C2D-65C32A319D45}|src\\Services\\IdentityService\\IdentityService.csproj|solutionrelative:src\\services\\identityservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48B76F5-5916-FFA9-5C2D-65C32A319D45}|src\\Services\\IdentityService\\IdentityService.csproj|d:\\skylink\\src\\services\\identityservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48B76F5-5916-FFA9-5C2D-65C32A319D45}|src\\Services\\IdentityService\\IdentityService.csproj|solutionrelative:src\\services\\identityservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967A9878-9005-C8B0-725C-1F34134168DB}|src\\ApiGateway\\ApiGateway.csproj|d:\\skylink\\src\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{967A9878-9005-C8B0-725C-1F34134168DB}|src\\ApiGateway\\ApiGateway.csproj|solutionrelative:src\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\SkyLink\\src\\Services\\IdentityService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\IdentityService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\SkyLink\\src\\Services\\IdentityService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Services\\IdentityService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-27T18:14:11.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SkyLink\\src\\Services\\IdentityService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "src\\Services\\IdentityService\\Models\\User.cs",
+              "ToolTip": "D:\\SkyLink\\src\\Services\\IdentityService\\Models\\User.cs*",
+              "RelativeToolTip": "src\\Services\\IdentityService\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:49:27.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\SkyLink\\src\\ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "src\\ApiGateway\\ocelot.json",
+              "ToolTip": "D:\\SkyLink\\src\\ApiGateway\\ocelot.json",
+              "RelativeToolTip": "src\\ApiGateway\\ocelot.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-27T17:39:49.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

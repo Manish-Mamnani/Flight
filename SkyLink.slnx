@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ApiGateway/ApiGateway.csproj" />
+  </Folder>
+  <Folder Name="/src/Services/">
+    <Project Path="src/Services/BookingService/BookingService.csproj" />
+    <Project Path="src/Services/CheckInService/CheckInService.csproj" />
+    <Project Path="src/Services/FareService/FareService.csproj" />
+    <Project Path="src/Services/IdentityService/IdentityService.csproj" />
+    <Project Path="src/Services/SearchService/SearchService.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SkyLink.UnitTests/SkyLink.UnitTests.csproj" />
+  </Folder>
+</Solution>
